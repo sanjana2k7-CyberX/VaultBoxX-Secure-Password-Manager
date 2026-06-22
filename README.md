@@ -27,25 +27,6 @@ This project is designed as a learning and portfolio project that demonstrates P
 - PyMongo
 - cryptography
 
-## Screenshots
-
-Add screenshots here after uploading the project to GitHub.
-
-Recommended screenshots:
-
-- Login screen
-- Dashboard
-- Add credential page
-- View credentials page
-- Password generator page
-
-Example Markdown:
-
-```md
-![VaultBoxX Login](screenshots/login.png)
-![VaultBoxX Dashboard](screenshots/dashboard.png)
-```
-
 ## Project Structure
 
 ```text
